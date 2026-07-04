@@ -51,13 +51,9 @@ $ python main.py
 
 > Place ECG signal files in the `/ECG Data` directory, or connect a live ECG source if supported.
 
----
 
 
-## 👨‍💼 Contributors
-- **[Your Name]** –
-- **[Team Member 2]** 
-- **[Team Member 3]** 
+
 
 
 
